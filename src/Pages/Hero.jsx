@@ -52,9 +52,11 @@ function Hero() {
               <FaArrowRight />
             </button>
 
-            <button className="border border-base-300 text-base-content hover:border-blue-500 hover:text-blue-500 transition-all duration-300 px-8 py-4 rounded-2xl font-semibold cursor-pointer">
-              View Projects
-            </button>
+            <a href="">
+              <button className="border border-base-300 text-base-content hover:border-blue-500 hover:text-blue-500 transition-all duration-300 px-8 py-4 rounded-2xl font-semibold cursor-pointer">
+                View Projects
+              </button>
+            </a>
           </div>
 
           {/* STATS */}
