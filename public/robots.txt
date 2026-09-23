@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wisdom-uwakwe.vercel.app/sitemap.xml
